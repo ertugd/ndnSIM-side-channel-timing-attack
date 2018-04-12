@@ -1,1 +1,1 @@
-R sciprts are indipendent from ndn-attack.cc
+R sciprts are indipendent from ndn-attack.cpp
